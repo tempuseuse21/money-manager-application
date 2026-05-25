@@ -1,0 +1,6 @@
+{
+  "name": "Smart Money Manager",
+  "description": "An offline-first spreadsheet-based money manager with custom categories, analytics charts, PDF/Excel export, and smart savings tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer Financial Vault Shield Frame (66dp centered safe zone, bounding coordinates around 21 to 87) -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M54,26 C64,26 73,29 76,33 C76,46 72,69 54,82 C36,69 32,46 32,33 C35,29 44,26 54,26 Z" />
+        
+    <path
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,26 C64,26 73,29 76,33 C76,46 72,69 54,82 C36,69 32,46 32,33 C35,29 44,26 54,26 Z" />
+
+    <!-- Coin / Currency Circular Vault Plate (Middle) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#2E7D32"
+        android:strokeWidth="2.5"
+        android:pathData="M54,40 A14,14 0 1,1 54,68 A14,14 0 1,1 54,40 Z" />
+
+    <!-- Rupee/Dollar Growth Sign Signified centered inside -->
+    <path
+        android:strokeColor="#1B5E20"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M48,47 L60,47 M48,53 L60,53 M56,47 C51,47 48,51 51,56 L59,63" />
+
+    <!-- Modern Upward Growing Grid Bars on both sides (V-shape alignment) -->
+    <path
+        android:fillColor="#26A69A"
+        android:pathData="M24,58 L28,58 L28,74 L24,74 Z" />
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M80,52 L84,52 L84,74 L80,74 Z" />
+</vector>
